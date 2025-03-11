@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">I love low level programming, creating programming languages from scratch and the Blockchain.</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
